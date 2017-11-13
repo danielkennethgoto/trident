@@ -1,0 +1,8 @@
+Motor
+ _ _ _ _ 
+|A C B D|
+|_ _ _ _|
+
+Harness
+*Right side A4988 connections swapped from left set
+
