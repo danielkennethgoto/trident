@@ -6,3 +6,9 @@ Motor
 Harness
 *Right side A4988 connections swapped from left set
 
+
+Firmware
+*The commands for switching tools is found in Marlin_main.cpp. It is found under the function tool_change
+
+
+
